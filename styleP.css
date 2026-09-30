@@ -14,8 +14,8 @@ main {
 }
 
 #ProfileBase {
-    background: linear-gradient(90deg, rgba(53, 167, 212, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
-
+    background: #eb78ff;
+background: radial-gradient(circle, rgba(235, 120, 255, 1) 0%, rgba(245, 44, 84, 1) 100%);
     width: 25vw;      
     height: 27vw;           
     border-radius: 8px; 
@@ -43,8 +43,6 @@ main {
 }
 
 #Title {
-   background: #35a7d4;
-background: linear-gradient(90deg, rgba(53, 167, 212, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
     color: white;
     display: flex;
     align-items: center;
@@ -53,8 +51,6 @@ background: linear-gradient(90deg, rgba(53, 167, 212, 1) 0%, rgba(87, 199, 133, 
 }
 
 .SubTitle {
-        background: linear-gradient(90deg, rgba(53, 167, 212, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
-
     color: rgb(209, 208, 208);
     display: flex;
     align-items: center;
@@ -63,8 +59,6 @@ background: linear-gradient(90deg, rgba(53, 167, 212, 1) 0%, rgba(87, 199, 133, 
 }
 
 .Infos {
-        background: linear-gradient(90deg, rgba(53, 167, 212, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
-
     color: rgb(209, 208, 208);
     display: flex;
     align-items: center;
